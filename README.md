@@ -11,17 +11,17 @@
 
 ---
 
-### 🏁 About Me
+### About Me
 
 I'm working toward a **B.S. in Data Science** (Advanced Data Science) through Oregon State University. Before this program, I co-founded **Corner League**, a sports media and operations platform built for underserved sports. I began as CEO and now lead strategic partnerships.
 
 Building the company taught me that niche sports are full of untracked performance data, and that turning it into something meaningful takes more than good storytelling. It takes real modeling.
 
-### 🔬 What I've Worked On
+### What I've Worked On
 
 - **HARNESS**: an independent benchmark measuring sycophancy in multi-turn AI conversations across 560 dialogues
 
-### 🎯 Where I'm Headed
+### Where I'm Headed
 
 Long term, I want to do **AI and machine learning research applied to professional sports**, especially modeling how athletes and objects move through space and time. 
 
