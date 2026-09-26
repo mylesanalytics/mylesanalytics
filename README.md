@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Myles Magee 👋</h1>
+<h1 align="center">Hi, I'm Myles Magee</h1>
 <p align="center">
   <em>Data Science student · Sports tech founder · AI research</em>
 </p>
