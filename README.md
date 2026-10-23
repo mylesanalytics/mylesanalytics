@@ -25,7 +25,7 @@ Building the company taught me that niche sports are full of untracked performan
 
 Long term, I want to do **AI and machine learning research applied to professional sports**, especially modeling how athletes and objects move through space and time. 
 
-### Skills Currently Developing
+### Skills I'm Currently Developing
 
 - **Statistics & Mathematical Modeling:** Building a stronger understanding of statistical principles, probability, and the mathematics behind analytical models.
 - **R Programming for Data:** Developing my ability to clean, organize, manipulate, and analyze datasets using R and the tidyverse.
