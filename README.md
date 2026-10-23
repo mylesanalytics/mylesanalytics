@@ -25,6 +25,14 @@ Building the company taught me that niche sports are full of untracked performan
 
 Long term, I want to do **AI and machine learning research applied to professional sports**, especially modeling how athletes and objects move through space and time. 
 
+## Skills Currently Developing
+
+- **Statistics & Mathematical Modeling:** Building a stronger understanding of statistical principles, probability, and the mathematics behind analytical models.
+- **R Programming for Data:** Developing my ability to clean, organize, manipulate, and analyze datasets using R and the tidyverse.
+- **Predictive Modeling & Machine Learning:** Learning the theoretical foundations of predictive models and how they can be applied to real-world problems.
+- **Critical Thinking & Analytical Problem Solving:** Strengthening my ability to determine which analytical methods to use, understand why they work, and interpret the results.
+- **Applied Research:** Looking to gain hands-on research experience through OSU's URSA Engage program, applying what I'm learning to real-world research problems.
+
 ---
 
 <p align="center">
